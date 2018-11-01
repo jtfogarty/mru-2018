@@ -5,6 +5,25 @@ Read Luke 24:13-27
 Prayer 
 
 Luke's "only" detailed narative of the resurection
+    Historical event that none of the gospels record
+
+    It was just another day
+
+Context of this story
+
+3 questions vs 17 - 19
+
+    * What are you discussing 
+    * Are you the only one in Jerusalem that does not know the things that have happened there in these days?
+    * What things?
+    
+They were talking about the identity of Jesus
+    
+    He was prophet Powerful in Word and Deed
+
+The verbs in the next section gives away there world view, there perspective on these events
+
+#### God chose the ordinary in this instance to reveal Christ to these two 
 
 Struggle between Hope and Fear
 
