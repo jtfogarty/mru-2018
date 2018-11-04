@@ -51,7 +51,7 @@ the idea of victory and glory appealed to them but they failed to see that these
 
 
 #### vs 25 - 27
-The Chris had to suffer
+The Christ had to suffer
 
 Acts 17
 
