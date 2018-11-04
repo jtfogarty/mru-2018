@@ -1,96 +1,68 @@
+
+## Greatings From Mcknight Crossings 
+
 ## The Road to Emmaus
 
 Read Luke 24:13-27
 
 Prayer 
 
-Luke's "only" detailed narative of the resurection
-    Historical event that none of the gospels record
+## Context of this story
+- Jesus spent 3 years teaching, healing and training his desciples  
+- He intentionally went to Jerusalem for the passover
+- He was arrested
+- Crucified
+- And now there are reports of the tomb being empty
 
-    It was just another day
+## Pre / Post revelation 
+#### plus I will point out some principles we can hang our hats on along the way
 
-Context of this story
+### Principles 
 
-3 questions vs 17 - 19
+* The context of this story is historical 
+* They were kept from recognizing him
 
-    * What are you discussing 
-    * Are you the only one in Jerusalem that does not know the things that have happened there in these days?
-    * What things?
-    
-They were talking about the identity of Jesus
-    
-    He was prophet Powerful in Word and Deed
+Jeremihia 
 
-The verbs in the next section gives away there world view, there perspective on these events
+```11For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future. 12Then you will call on me and come and pray to me, and I will listen to you. 13You will seek me and find me when you seek me with all your heart.```
+
+### Pre-Revelation
+
+The basic problem is glaring at us in verse 21 
+
+```but we had hoped that he was the one who was going to redeem Israel```
+
+* Verse 25
+
+Aren't you failing to understand ALL that the prophets have spoken - Jesus asked  
+
+Their faith was already a pastence thing
+
+    Their dreams shattered 
+    Their hopes were gone
+    They were already burried 
+
+They only got half of the picture.
+the idea of victory and glory appealed to them but they failed to see that these thing lay on the path of dying to self
+
+### What does the scripture tell us about suffering 
+
+[Suffering](https://www.biblestudytools.com/topical-verses/bible-verses-about-suffering/)
+
+
+#### vs 25 - 27
+The Chris had to suffer
+
+Acts 17
+
+```1 When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue. 2As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures, 3explaining and proving that the Messiah had to suffer and rise from the dead.```
+
+### Post
+
+#### vs 28 - 29
+Stay with us. The day is almost over. It's dangerous out there.
 
 #### God chose the ordinary in this instance to reveal Christ to these two 
 
-Struggle between Hope and Fear
-
-    Do we have a grasp of why we even exists 
-
-    Why do we never get answer to a 1000 different questions 
-
-    I'm looking for someone to change my life
-
-    Is it just for the moment we live.
-
-    I am a rock and an Island
-
-    ### Can we identify with these 2 in Scripture
-
-    2 Points 
-
-    ## Basic problem
-
-    ## Big Picture
-
-    What is the basic problem
-    
-    We had hoped he was the one?
-
-    Vs 13 
-
-    11K between Jerusalem and Emmaus (7Miles)
-
-    The same day as the previous chapter, the same day as the empty tomb
-
-    The 2 are talking about everything that have happened.
-
-    This is history not mythology inveneted a few 100 years after some person named Jesus of Nazareth lived
-
-    There is no doubt in Lukes mind that Jesus of history and the Jesus of faith are one in the same.
-
-    Where did Jesus go if he was not in the tomb
-    What was happening in Crusifiction
-    Why did he make all of these amazing statements 
-    What did Jesus mean when he told that guy next to him "today you will be with me in Paradise" 
-    Is he the fulfillment of the things that he said
-
-    Luke Chapter 4 from go back to Gallalie and back to Nazareth
-    What does he do there, He goes to the synagog.  That was his custom.  And he reads from Isiah 
-
-    Vs 15 - they are joined by a stranger 
-
-    They were kept from recognizing him.  
-        We can not see the reason Christ unless he wills to disclose himself.  
-
-    What's the word on the street?  
-
-## We had hoped that he was the one to redeem ISREAL 
-
-HIM THEY DID NOT SEE
-
-# THE BIG PICTURE
-
-Aren't you failing to understand and slow to believe ALL the prohets have spoken?
-
-The attached themself to glory and victory but they failed to see that these things are at the end of the path of suffering and death 
-
-Cross ref Luke 18:31
-
-Jesus did not hide this, if you follow me this is a radical change in your life.  
-
-vs 27 a bible study about ALL
-
-
+#### vs 30 
+The two gave Him the honor of being the host.  
