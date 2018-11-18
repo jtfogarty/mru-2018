@@ -83,8 +83,11 @@ There is also a distinction between those who follow Jesus and those who do not.
 
 WHO do we follow;  where we may claim to follow many god but really we are following ourself.  we have elevated ourself as gods
 
-
 Ephesians 5:8 ```for at one time you were darkness, but now you are light in the Lord. ```
+
+There is a before and after
+
+Have you been illumind 
 
 Are you, am I?  Have you come to our lord saying my thought are dark, my way is dark, my end is dark?  Illuminate me Lord
 
@@ -94,14 +97,25 @@ The light came and over came the darkness
 
 ```Walk as children of light 9 (for the fruit of light is found in all that is good and right and true),```
 
+There is a difference 
 
-what dull our lights 
+Philips  you are shining like stars in the universe
+
+There is a light here a story here 
+
+
+While I'm in the world I'm the light of the world
+
+You are the light of the world
+
+there are all kinds of illustrations about concealing your light
+
+when you are concealing your light one of 4 things are happening 
+
 - willful sin
 - compromise 
 - lazyness
 - fear
-
-we are suppose to be salt and our lights are suppose to shine
 
 
 ```

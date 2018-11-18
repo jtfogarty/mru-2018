@@ -18,3 +18,19 @@ https://github.com/opencontainers/runc
 
 https://technology.amis.nl/2018/04/19/15-minutes-to-get-a-kafka-cluster-running-on-kubernetes-and-start-producing-and-consuming-from-a-node-application/
 
+
+wc
+
+export CLIENT_ID=872917404612-e28mlbi810shg30g96ffnve1d54gl37f.apps.googleusercontent.com
+export CLIENT_SECRET=F2ssZnkwzbB8AFdIYFFDV2i4
+
+
+
+./scripts/kfctl.sh init ${KFAPP} --platform gcp --project ${PROJECT}
+cd ${KFAPP}
+../scripts/kfctl.sh generate platform
+../scripts/kfctl.sh apply platform
+../scripts/kfctl.sh generate k8s
+../scripts/kfctl.sh apply k8s
+
+
