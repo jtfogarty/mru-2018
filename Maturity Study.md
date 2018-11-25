@@ -1,36 +1,77 @@
 ## Maturity In Christ
 
-7kBw$r$5
+Ephesians 4:14-16
 
-US Embassy Port Louis
-4th Floor, Rogers House
-John Kennedy Avenue
-Port Louis, Republic of Mauritius
-Phone: (230) 202-4400
-Fax: (230) 208-9534
+What would maturity be like
 
+#### No longer be like children
 
-https://edenmal.moe/post/2018/CRI-O-Container-Linux-How-to-Install/
-https://github.com/kubernetes-sigs/cri-o
-https://github.com/ostreedev/ostree
-https://github.com/opencontainers/runc
+You need to have a solid base
 
+#### Grow up into Christ
 
-https://technology.amis.nl/2018/04/19/15-minutes-to-get-a-kafka-cluster-running-on-kubernetes-and-start-producing-and-consuming-from-a-node-application/
+United with Christ is to be at union with one another.  
+
+The process is Speaking the Truth in Love.  
+
+Error and Decite vs Truth and Love
 
 
-wc
+1. Eat up
+2. Grow up
+3. Show up
+4. Step up
 
-export CLIENT_ID=872917404612-e28mlbi810shg30g96ffnve1d54gl37f.apps.googleusercontent.com
-export CLIENT_SECRET=F2ssZnkwzbB8AFdIYFFDV2i4
+God will use us as He sees fit
+
+Philippians 3:7
+
+#### Three tests 
+* Test of Humility 
+  * it is with the humble that God promises to dwell
+  * Isiah 57:15
+<p>
+
+```
+15For thus says the One who is high and lifted up,
+  who inhabits eternity, whose name is Holy:
+“I dwell in the high and holy place,
+  and also with him who is of a contrite and lowly spirit,
+to revive the spirit of the lowly,
+  and to revive the heart of the contrite.
+```
+* A pattern of Jesus
+  * John  13 - Jesus washes the deciples feet
+
+Anxiety 
+
+Adversity
+
+Don't boast
+Don't worry
+Don't quit
+
+Philippians 3:7-13
+
+```13Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead, 14I press on toward the goal for the prize of the upward call of God in Christ Jesus. 15Let those of us who are mature think this way, and if in anything you think otherwise, God will reveal that also to you. 16Only let us hold true to what we have attained.```
+
+Colossians 1
+
+```28He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ.```
+
+Am I on the road to Maturity?
+
+1. Aware of what they are not - we have not arrived spiritually vs 12
+2. Assured of what they are
+3. A healthy discregard for the past - One thing I do Forget what is behind .  I refused to be chained to past success or failures
+4. Lives with a positive singled minded desire of what lies ahead.  
+5. Holds true to the principles that unit belivers in Christ
 
 
 
-./scripts/kfctl.sh init ${KFAPP} --platform gcp --project ${PROJECT}
-cd ${KFAPP}
-../scripts/kfctl.sh generate platform
-../scripts/kfctl.sh apply platform
-../scripts/kfctl.sh generate k8s
-../scripts/kfctl.sh apply k8s
+Are we here to enjoy religion or to be made holy
 
 
+Like the Master, the maturing Christian prefers serving oth- ers to being served by others. The maturing Christian emulates the Lord who claimed, “I am among you as one who serves” (Luke 22:27c). “For even the Son of Man did not come to be served, but to serve” (Mark 10:45).
+True spiritual leadership springs not from a desire to rule but from a passion to serve. This exotic grace is not native to most of us, but the Master equated it with greatness. “Whoever wants to be great among you must be your servant” (Mark 10:43).
+This was one of the most revolutionary concepts Jesus introduced into the religious world of His day. Now, as then, most want to be masters not servants, leaders not followers. 
